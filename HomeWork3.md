@@ -52,17 +52,17 @@
 
 -ChanceDirection - определяет с какой вероятностью дракон сменит направление
 
-![garph1](https://github.com/mastya6/Workshop-3/edit/main/graph1.png)
-![graph2](https://github.com/mastya6/Workshop-3/edit/main/graph2.png)
+![garph1](https://github.com/mastya6/Workshop-3/blob/main/graph1.png)
+![graph2](https://github.com/mastya6/Workshop-3/blob/main/graph2.png)
 
 
 ## Задание 2
 ###  Сцены Unity
 
 Скопировала 10 раз стандратную сцену и меняла вручную сложность
-![level](https://github.com/mastya6/Workshop-3/edit/main/deafultlevel.png)
+![level](https://github.com/mastya6/Workshop-3/blob/main/deafultlevel.png)
 
-![inspector](https://github.com/mastya6/Workshop-3/edit/main/inspectordef.png)
+![inspector](https://github.com/mastya6/Workshop-3/blob/main/inspectordef.png)
 
 
 ## Задание 3
@@ -95,7 +95,7 @@ print(f"Speed : {speed_values}")
 print(f"Egg Appearance Time : {egg_appearance_values}")
 print(f"Chance of Direction Change : {direction_change_values}")
 ```
-![python](https://github.com/mastya6/Workshop-3/edit/main/python.png)
+![python](https://github.com/mastya6/Workshop-3/blob/main/python.png)
 
 А для изменения сложности уровней в Unity я изменила скрипт EnemyDragon,
 который теперь берет данные из гугл таблицы, и в зависимости от выбранного 
@@ -225,8 +225,8 @@ public class EnemyDragon : MonoBehaviour
 }
 ```
 
-![level](https://github.com/mastya6/Workshop-3/edit/main/changedlevel.png)
-![inspector](https://github.com/mastya6/Workshop-3/edit/main/inspectorchg.png)
+![level](https://github.com/mastya6/Workshop-3/blob/main/changedlevel.png)
+![inspector](https://github.com/mastya6/Workshop-3/blob/main/inspectorchg.png)
 
 ## Выводы
 
